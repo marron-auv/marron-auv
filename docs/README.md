@@ -46,17 +46,6 @@ Do it your Self。トラブルこそ楽しみのうちです。困難な時は�
 やがて置き場所を失った機体は、バラバラにされてスクラップ置き場に送られました。
 スクラップの中から使えるものを再生・加工・部品を新造し、テセウスの船のごとく復活を遂げました。
 
-## Special Thanks for...
-[@cronos_sv](https://twitter.com/cronos_sv) Power circuit Design  & manufacturing.  
-[@betaEncoder](https://twitter.com/betaEncoder) Dshot controller  
-[@unos](https://twitter.com/unos) WebRTC Native Client Momo MOD with PS5 Controller  
-[@voluntas](https://twitter.com/https://twitter.com/voluntas) Pushing me on the back & donation  
-[@tnoho](https://twitter.com/tnoho) Great work! "WebRTC Native Client Momo" Without this, many friendships would not have been made.  
-[@gaga_robot](https://twitter.com/gaga_robot) Good neighbor in IIS & Twitter.  
-[@verdeverne](https://twitter.com/verdeverne) Good junior so long time.  
-[@scaercrow](https://twitter.com/scaercrow) Best friend, I owe you one. Ah? many So many? huge? maybe Massive.  
-[@kurukukukururu](https://twitter.com/kurukukukururu) As a respected friend, as a father.Congrats marry & baby!  
-
 ## Happy ever after?
 I can't tell all the stories, but I'll try to keep as many records and memories of my challenges here as I can.  
 すべての物語を綴ることはできないが、できる限りの挑戦の記録と思い出をここに残しておくことにする。  
