@@ -25,7 +25,6 @@ jobs:
         run: echo "GITHUB_TOKEN=${{ secrets.WAMV_TAN_BOT_SECRET }}" >> $GITHUB_ENV
       - name: Generate documentation
         run: mkdocs build
-        working-directory: docs
       - uses: actions/upload-artifact@v2
         if: ${{ github.event_name == 'pull_request'}}
         with:
