@@ -1,4 +1,4 @@
-# Community
+# コミュニティ
 
 ## Special Thanks!
 [@cronos_sv](https://twitter.com/cronos_sv) Power circuit Design  & manufacturing.  
