@@ -1,5 +1,7 @@
 # コミュニティ
 
+[:fontawesome-brands-discord:{ .discord } Discord 招待リンク](https://discord.gg/9Ykg3vcEf7)
+
 ## Special Thanks!
 
 :fontawesome-brands-twitter:{ .twitter }[@cronos_sv](https://twitter.com/cronos_sv) Power circuit Design  & manufacturing.  

@@ -18,6 +18,10 @@ AUVは真の孤独と自由を併せ持つ、海のロボットです。
 ### 参加資格
 興味を持ち・自ら進んで行動し・困難においても糸口を探し続ける志を持つ者。
 
+### 参加方法
+
+[:fontawesome-brands-discord:{ .discord } Discord 招待リンク](https://discord.gg/9Ykg3vcEf7)
+
 ## 機体開発の注意事項
 本体の基本的な所有権：:fontawesome-brands-twitter:{ .twitter }[@Shoo](https://twitter.com/ShooAllow)  
 
