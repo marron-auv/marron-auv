@@ -1,0 +1,1 @@
+mkdocs mkdocs-material fontawesome_markdown mkdocs-mermaid2-plugin pymdown-extensions plantuml-markdown python-markdown-math pandas

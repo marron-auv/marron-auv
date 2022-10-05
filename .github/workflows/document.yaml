@@ -1,0 +1,38 @@
+name: document
+
+on:
+  schedule:
+    - cron: 0 0 * * *
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+  pull_request:
+
+jobs:
+  document:
+    name: build document
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2-beta
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.6.15"
+      - name: Install
+        run: pip3 install -r requirements.txt
+      - name: Set env
+        run: echo "GITHUB_TOKEN=${{ secrets.WAMV_TAN_BOT_SECRET }}" >> $GITHUB_ENV
+      - name: Generate documentation
+        run: mkdocs build
+        working-directory: docs
+      - uses: actions/upload-artifact@v2
+        if: ${{ github.event_name == 'pull_request'}}
+        with:
+          name: site
+          path: docs/site
+      - uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.event_name != 'pull_request'}}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: docs/site

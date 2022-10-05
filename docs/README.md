@@ -1,0 +1,64 @@
+# Open Sharing Develop and Go!  AUV Project!
+## What is this project?
+オープン・シェアリング・開発・運用　AUVプロジェクト!
+
+![](images/cad_image.jpeg)
+
+## What is AUV?
+AUVは、Autonomous Underwater Vehicle ( 自律型 無人 潜水機 )です。
+一般的な水中ドローン（ROV）は、テザーケーブルと繋がれ、遠隔操縦によりカメラによる視点を提供するものです。
+AUVは、あらかじめ与えられた目的に応じたプログラムにより、自律的に行動し、テザーケーブルを必要としません。
+
+### Purpose of this project
+
+AUVは真の孤独と自由を併せ持つ、海のロボットです。
+しかしながらまだまだAUVは高価で、ひとりで作り運用し・楽しむのは困難が伴います。
+このAUVプロジェクトは、学生から社会人まで、色んな人がワイワイ開発をするための趣味のAUVとして生まれました。
+
+#### 参加資格
+興味を持ち・自ら進んで行動し・困難においても糸口を探し続ける志を持つ者。
+
+## 機体開発の注意事項
+本体の基本的な所有権：[@Shoo](https://twitter.com/ShooAllow)  
+
+!!! attention
+    追加の装備を勝手に搭載する分にはこの限りではありません。
+    もちろん自律機の性質上、機体ごと、なくなったり・壊したりしても一切の責任を持ちません。
+
+### プロジェクトにおいて開発された知財等
+当然、それを作った人に帰属します、公開する範囲、ライセンスは自由に設定できます。
+何も制限するつもりはありません。
+あえて言えば楽しむことが大事です。
+
+### 貸出希望受付：随時
+既存の挑戦者が優先されますが、作業にドロップインすることは歓迎です。
+
+### 輸送費・保険・故障・修理費・許認可など
+実費・許認可等は、運用者がご負担・申請ください。
+
+### 故障・修理の基本方針
+Do it your Self。トラブルこそ楽しみのうちです。困難な時は仲間が助けてくれるでしょう。
+
+####  歴史的経緯
+2019年 WebRTC Native Client Momoを用いた、動画配信用ROVとして機体は設計されました。
+同年、なんとか孤独な進水式こぎつけるもの、皆さん知る通りCOVID-19社会情勢の中で運用が断念され、
+そのままホコリを被っていました…。
+やがて置き場所を失った機体は、バラバラにされてスクラップ置き場に送られました。
+スクラップの中から使えるものを再生・加工・部品を新造し、テセウスの船のごとく復活を遂げました。
+
+## Special Thanks for...
+[@cronos_sv](https://twitter.com/cronos_sv) Power circuit Design  & manufacturing.  
+[@betaEncoder](https://twitter.com/betaEncoder) Dshot controller  
+[@unos](https://twitter.com/unos) WebRTC Native Client Momo MOD with PS5 Controller  
+[@voluntas](https://twitter.com/https://twitter.com/voluntas) Pushing me on the back & donation  
+[@tnoho](https://twitter.com/tnoho) Great work! "WebRTC Native Client Momo" Without this, many friendships would not have been made.  
+[@gaga_robot](https://twitter.com/gaga_robot) Good neighbor in IIS & Twitter.  
+[@verdeverne](https://twitter.com/verdeverne) Good junior so long time.  
+[@scaercrow](https://twitter.com/scaercrow) Best friend, I owe you one. Ah? many So many? huge? maybe Massive.  
+[@kurukukukururu](https://twitter.com/kurukukukururu) As a respected friend, as a father.Congrats marry & baby!  
+
+## Happy ever after?
+I can't tell all the stories, but I'll try to keep as many records and memories of my challenges here as I can.  
+すべての物語を綴ることはできないが、できる限りの挑戦の記録と思い出をここに残しておくことにする。  
+Bon voyage.  
+2022-09-29 shootingmaker.  
