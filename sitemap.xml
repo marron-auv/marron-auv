@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/marron-auv/marron-auv/</loc>
-         <lastmod>2023-05-04</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/marron-auv/marron-auv/Community/</loc>
-         <lastmod>2023-05-04</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/marron-auv/marron-auv/Hardware/</loc>
-         <lastmod>2023-05-04</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/marron-auv/marron-auv/Software/</loc>
-         <lastmod>2023-05-04</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/marron-auv/marron-auv/Specs/</loc>
-         <lastmod>2023-05-04</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
